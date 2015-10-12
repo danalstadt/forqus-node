@@ -1,0 +1,21 @@
+{
+  "name": "forqus-node",
+  "version": "0.1.1",
+  "description": "Shorten links with forq.us",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danalstadt/forqus-node.git"
+  },
+  "author": "Dan Alstadt <danslstadt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danalstadt/forqus-node/issues"
+  },
+  "homepage": "https://forq.us",
+  "dependencies": {
+    "bluebird": "^2.10.2",
+    "request-promise": "^1.0.0"
+  },
+  "readme": "README.md"
+}

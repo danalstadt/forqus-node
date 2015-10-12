@@ -7,7 +7,7 @@ Example Usage
 -------------
 
 ```
-var Forqus = require('./index'),
+var Forqus = require('forqus'),
     forqus = new Forqus('your-api-key');
 
 forqus.shorten('https://some.url').then(function (result) {
